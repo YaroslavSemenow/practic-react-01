@@ -3,4 +3,5 @@ export const mapper = (movies) =>
     id,
     title,
     img,
+    isWatched: false,
   }));
